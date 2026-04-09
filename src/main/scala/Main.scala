@@ -256,7 +256,8 @@ object Main extends JsonSupport {
         )
       }
 
-    val bindingFuture = Http().newServerAt("localhost", 8000).bind(route)
+    val port = sys.env.getOrElse("PORT", "8000").toInt
+    val bindingFuture = Http().newServerAt("0.0.0.0", port).bind(route)
 
     println(s"Server online at http://localhost:8000/")
     println("CORS enabled for browser access")
