@@ -7,7 +7,7 @@ import scala.util.{Try, Success, Failure}
 
 object MongoConnection {
   // MongoDB connection URI and new database name
-  private val mongoUri = "mongodb://localhost:27017"
+  private val mongoUri = "mongodb+srv://hackthon346_db_user:ipXf0zWQHPHltsrd@cluster0.ivt7hmj.mongodb.net/medical-system-DB?retryWrites=true&w=majority"
   private val dbName = "medical-system-DB" // Change to your desired new DB name
 
   // MongoDB client and database

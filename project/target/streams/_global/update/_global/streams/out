@@ -1,3 +1,7 @@
 [0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
-[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/C:/Users/vasur/OneDrive/Desktop/BDA/project/"), "bda-build")...[0m
-[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/C:/Users/vasur/OneDrive/Desktop/BDA/project/"), "bda-build")[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/C:/Users/agane/Desktop/billin/Medical-Management-system/project/"), "medical-management-system-build")...[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating medical-management-system-build[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved medical-management-system-build dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of medical-management-system-build[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of medical-management-system-build[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/C:/Users/agane/Desktop/billin/Medical-Management-system/project/"), "medical-management-system-build")[0m
